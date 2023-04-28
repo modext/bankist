@@ -20,8 +20,10 @@ class App {
     this.reveal();
     this.IntObserver();
     this.lazyLoading();
+    this.lazyiLoading();
     this.counter = 0;
   }
+
 
   _uiSelectors() {
     this.selectors = {
