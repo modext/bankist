@@ -410,6 +410,8 @@ body {
   transition: all 0.5s;
   z-index: 1200; }
 
+  
+
 .modal {
   position: relative;
   perspective: 7888px;
